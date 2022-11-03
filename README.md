@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Languages Learned:
-C
-C++
-Java
-Python
+Languages Learned:<br/>
+C<br/>
+C++<br/>
+Java<br/>
+Python<br/>
