@@ -16,4 +16,4 @@ Now learning:<br/><br/>
 Linux<br/>
 Flash Player Games (for fun)<br/><br/>
 
-<b>Fun Fact</b>: I have a serious addiction for success
+<b>Fun Fact</b>: If any a thing exists which has more addictive than heroin, it has to be success..
