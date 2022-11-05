@@ -14,6 +14,5 @@ Sortings...
 
 Now learning:<br/><br/>
 Linux<br/>
-Flash Player Games (for fun)<br/><br/>
 
 <b>Fun Fact</b>: If any a thing exists which has more addictive than heroin, it has to be success..
