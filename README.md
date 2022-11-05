@@ -7,7 +7,7 @@ Java<br/>
 Python<br/><br/>
 
 Technologies known:<br/><br/>
-Eclipse<br/>
+Swing<br/>
 Pandas<br/>
 OOP<br/>
 Sortings...
