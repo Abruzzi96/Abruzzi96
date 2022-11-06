@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Languages Learned:<br/><br/>
-C<br/>
+C<br/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbanner2.kisspng.com%2F20180320%2Fapq%2Fkisspng-check-mark-checkbox-computer-icons-resort-green-tick-icon-5ab0e1fccb1139.6239247415215416288318.jpg&f=1&nofb=1&ipt=26e440b2672108305325b8528500fc88c5c581bc84e8d52900bdeb8184e947b6&ipo=images" height="30" weight="30" />
 C++<br/>
 Java<br/>
 Python<br/><br/>
