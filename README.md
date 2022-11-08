@@ -13,7 +13,6 @@ Being a programmer is my childhood dream. <img src="https://external-content.duc
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fcaribbean-blue%2Fcheckmark-512.gif&f=1&nofb=1&ipt=75191b35d27ce72ae13ae8c0f392789026c8a2dc96e3cc4b5e9f0f6f357ba57c&ipo=images" height="15" weight="15" />&nbsp;&nbsp;Swing<br/>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fcaribbean-blue%2Fcheckmark-512.gif&f=1&nofb=1&ipt=75191b35d27ce72ae13ae8c0f392789026c8a2dc96e3cc4b5e9f0f6f357ba57c&ipo=images" height="15" weight="15" />&nbsp;&nbsp;Pandas<br/>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fcaribbean-blue%2Fcheckmark-512.gif&f=1&nofb=1&ipt=75191b35d27ce72ae13ae8c0f392789026c8a2dc96e3cc4b5e9f0f6f357ba57c&ipo=images" height="15" weight="15" />&nbsp;&nbsp;OOP<br/>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fcaribbean-blue%2Fcheckmark-512.gif&f=1&nofb=1&ipt=75191b35d27ce72ae13ae8c0f392789026c8a2dc96e3cc4b5e9f0f6f357ba57c&ipo=images" height="15" weight="15" />&nbsp;&nbsp;Sortings...
 <br/><br/>
 <b>Now learning</b>:<br/><br/>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Floaders-4%2F24%2FLoader-25-512.png&f=1&nofb=1&ipt=7e293efc2e8e8d85fa21669ac9a31be96d781187fa758782edf03b8e95e45bc7&ipo=images" height="20" weight="20" />&nbsp;&nbsp;Linux<br/>
